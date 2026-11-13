@@ -1,0 +1,45 @@
+[
+	{"id": "machinegun",
+	"modifiers": {
+		"fire_rate": 1
+	},"enable": 0},
+	{"id": "shotgun",
+	"modifiers": {
+		"spread": 2,
+		"bullet_count": 4
+	},"enable": 0},
+	{"id": "fire_stacking",
+	"modifiers": {
+		"fire": 1
+	},"enable": 0},
+	{"id": "extra_bullet",
+	"modifiers": {
+		"extra_bullet_damage": 0.3,
+		"extra_bullet_count": 1
+	},"enable": 0},
+	{"id": "knockback_hero",
+	"modifiers": {
+		"knockback_hero": 2
+	},"enable": 0},
+	{"id": "knockback_enemy",
+	"modifiers": {
+		"knockback_enemy": 2
+	},"enable": 0},
+	{"id": "big_bullet",
+	"modifiers": {
+		"bullet_size": 1,
+		"damage" : 1
+	},"enable": 0},
+	{"id": "big_jump",
+	"modifiers": {
+		"jump_force": 1
+	},"enable": 0},
+	{"id": "flower",
+	"modifiers": {
+		"chance_flower_from_bullet": 0.2
+	},"enable": 0},
+	{"id": "lamp",
+	"modifiers": {
+		"magnet_radius": 1
+	},"enable": 0}
+]

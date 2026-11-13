@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://xe0emavcdsf"]
+
+[ext_resource type="Script" uid="uid://coeisvolkw2tc" path="res://Bullets/bullet.gd" id="1_lyyqn"]
+
+[node name="EnemyBulletT2" type="Node3D" unique_id=1603821019]
+script = ExtResource("1_lyyqn")
